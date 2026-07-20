@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nnamdi</h1>
-<h3 align="center">A passionate and aspiring full developer from Enugu</h3>
+<h3 align="center">A passionate aspiring full developer from Enugu</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nnamdi-security&label=Profile%20views&color=0e75b6&style=flat" alt="nnamdi-security" /> </p>
 
