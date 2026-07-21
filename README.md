@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **petersaint515@gmail.com**
 
-- ⚡ Fun fact **I'm am a dependable teammate**
+- ⚡ Fun fact: **I'm am a dependable teammate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
