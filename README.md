@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [PulseAfrica](https://pulseafrica.netlify.app/)
 
-- 🌱 I’m currently learning **Frontend Foundations (JavaScript, TypeScript & Next.js)**
+- 🌱 I’m currently learning **Frontend Foundations (JavaScript, TypeScript & Next.js, python, fastapi)**
 
 - 👨‍💻 Some of my projects are available at [https://mynameisnnamdi.netlify.app/](https://mynameisnnamdi.netlify.app/)
 
