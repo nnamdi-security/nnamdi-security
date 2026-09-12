@@ -1,39 +1,23 @@
-<h1 align="center">Hi 👋, I'm Nnamdi</h1>
-<h3 align="center">A passionate aspiring full developer from Enugu</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nnamdi-security&label=Profile%20views&color=0e75b6&style=flat" alt="nnamdi-security" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nnamdi-security" alt="nnamdi-security" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/nnamdi_ileh" target="blank"><img src="https://img.shields.io/twitter/follow/nnamdi_ileh?logo=twitter&style=for-the-badge" alt="nnamdi_ileh" /></a> </p>
-
-- 🔭 I’m currently working on [PulseAfrica](https://pulseafrica.netlify.app/)
-
-- 🌱 I’m currently learning **Frontend Foundations (JavaScript, TypeScript & Next.js, python, fastapi)**
-
-- 👨‍💻 Some of my projects are available at [https://mynameisnnamdi.netlify.app/](https://mynameisnnamdi.netlify.app/)
-
-- 📝 I regularly write articles on [https://techbrosis.netlify.app/](https://techbrosis.netlify.app/)
-
-- 📫 How to reach me **petersaint515@gmail.com**
-
-- ⚡ Fun fact: **I'm am a dependable teammate(you can always count on me to deliver)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nnamdi_ileh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nnamdi_ileh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/peter-ileh-746575b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter-ileh-746575b5/" height="30" width="40" /></a>
-<a href="https://fb.com/abayomi.ayanfeolodumare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abayomi.ayanfeolodumare" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nnamdiileh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nnamdiileh" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nnamdi-security&show_icons=true&locale=en&layout=compact" alt="nnamdi-security" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nnamdi-security&show_icons=true&locale=en" alt="nnamdi-security" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nnamdi-security&" alt="nnamdi-security" /></p>
-
-
+<h1 align="center">Hi 👋, I'm Nnamdi (Peter N. Ileh)</h1> <h3 align="center">Fullstack Developer & AI Engineer in training, based in Enugu, Nigeria</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=nnamdi-security&label=Profile%20views&color=0e75b6&style=flat" alt="nnamdi-security" /> </p> <p align="center"> <a href="https://twitter.com/nnamdi_ileh"><img src="https://img.shields.io/twitter/follow/nnamdi_ileh?style=social" /></a> </p>
+🚀 About Me
+🔭 I'm currently working on PulseAfrica
+🌱 I'm currently learning Frontend Foundations — JavaScript, TypeScript & Next.js, Python, FastAPI
+🛡️ My background is in cybersecurity, and I'm expanding into fullstack development, AI/LLM engineering, and data analytics
+👨‍💻 Some of my projects are live at mynameisnnamdi.netlify.app
+✍️ I write articles regularly at techbrosis.netlify.app
+📫 Reach me at petersaint515@gmail.com
+⚡ Fun fact: I'm a dependable teammate — you can always count on me to deliver
+🧩 Featured Projects
+Project	Description
+Portfolio Site	Personal portfolio showcasing my AI & fullstack work, with video cards for each project
+Turing Tech LLC Landing Page	Landing page built for the Turing Tech LLC programme
+Sentiment Analysis — Mr. Biggs	Group AI-class project analyzing customer sentiment for a restaurant brand
+The Daily Dozen (E-book)	12 simple habits for lifelong wellness — written under my pen name, Peter N. Ileh
+E-book French Translation	Translating The Daily Dozen from English to French
+Nexus	Tailwind CSS practice landing page
+🛠️ Languages & Tools
+<p align="left"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </p>
+🌐 Connect With Me
+<p align="left"> <a href="https://twitter.com/nnamdi_ileh" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://facebook.com/YOUR-FACEBOOK-HANDLE" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://youtube.com/YOUR-CHANNEL" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a> </p>
+📊 GitHub Stats
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=nnamdi-security&show_icons=true&theme=dark&hide_border=true" alt="nnamdi-security stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nnamdi-security&theme=dark&hide_border=true" alt="nnamdi-security streak" height="165"/> </p> <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnamdi-security&layout=compact&theme=dark&hide_border=true" alt="Top languages" /> </p>
