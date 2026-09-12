@@ -8,7 +8,7 @@
 🛡️ My background is in cybersecurity, and I'm expanding into fullstack development,
  and AI/LLM engineering.
 
-👨‍💻 Some of my projects are live at mynameisnnamdi.netlify.app
+👨‍💻 Some of my projects are live at https://mynameisnnamdi.netlify.app
 
 ✍️ I write articles regularly at techbrosis.netlify.app
 
