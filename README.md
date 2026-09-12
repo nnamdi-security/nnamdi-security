@@ -3,7 +3,7 @@
 
 🔭 I'm currently working on PulseAfrica
 
-🌱 I'm currently learning Frontend Foundations — JavaScript, TypeScript & Next.js, Python, FastAPI
+🌱 I'm currently learning Frontend Foundations — Python, FastAPI.
 
 🛡️ My background is in cybersecurity, and I'm expanding into fullstack development,
  and AI/LLM engineering.
@@ -17,7 +17,9 @@
 ⚡ Fun fact: I'm a dependable teammate — you can always count on me to deliver
 
 🧩 Featured Projects
+
 Project	Description
+
 Portfolio Site	Personal portfolio showcasing my AI & fullstack work, with video cards for each project
 Turing Tech LLC Landing Page	Landing page built for the Turing Tech LLC programme
 Sentiment Analysis — Mr. Biggs	Group AI-class project analyzing customer sentiment for a restaurant brand
