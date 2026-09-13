@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nnamdi (Peter N. Ileh)</h1> <h3 align="center">Fullstack Developer & AI Engineer in training, based in Enugu, Nigeria</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=nnamdi-security&label=Profile%20views&color=0e75b6&style=flat" alt="nnamdi-security" /> </p> <p align="center"> <a href="https://twitter.com/nnamdi_ileh"><img src="https://img.shields.io/twitter/follow/nnamdi_ileh?style=social" /></a> </p>
+<h1 align="center">Hi 👋, I'm Nnamdi (Peter N. Ileh)</h1> <h3 align="center">Fullstack Developer & AI Engineer in training, based in Enugu, Nigeria</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=nnamdi-security&label=Profile%20views&color=0e75b6&style=flat" alt="nnamdi-security" /> </p> <p align="right"> <a href="https://twitter.com/nnamdi_ileh"><img src="https://img.shields.io/twitter/follow/nnamdi_ileh?style=social" /></a> </p>
 🚀 About Me
 
 🔭 I'm currently working on PulseAfrica
